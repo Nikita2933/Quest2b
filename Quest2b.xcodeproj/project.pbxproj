@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11279907240956570037CDF5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 11279906240956570037CDF5 /* .gitignore */; };
 		11371C212402B3B400F31DF0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11371C202402B3B400F31DF0 /* SceneDelegate.swift */; };
 		11371C2B2402B3B400F31DF0 /* Quest2b.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 11371C292402B3B400F31DF0 /* Quest2b.xcdatamodeld */; };
 		11371C2D2402B3B500F31DF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11371C2C2402B3B500F31DF0 /* Assets.xcassets */; };
@@ -89,6 +90,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		11279906240956570037CDF5 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		11371C1B2402B3B400F31DF0 /* Quest2b.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quest2b.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11371C202402B3B400F31DF0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		11371C2A2402B3B400F31DF0 /* Quest2b.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Quest2b.xcdatamodel; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				11371C312402B3B500F31DF0 /* Info.plist */,
 				11371C292402B3B400F31DF0 /* Quest2b.xcdatamodeld */,
 				11EEBE092406DC9100E1D32A /* infodatabase.db */,
+				11279906240956570037CDF5 /* .gitignore */,
 			);
 			path = Quest2b;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				11371C482402B59600F31DF0 /* image2.jpg in Resources */,
 				11371C2D2402B3B500F31DF0 /* Assets.xcassets in Resources */,
 				11371C4B2402B59600F31DF0 /* image1.jpg in Resources */,
+				11279907240956570037CDF5 /* .gitignore in Resources */,
 				11EEBE0A2406DC9100E1D32A /* infodatabase.db in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
